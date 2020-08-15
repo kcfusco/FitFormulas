@@ -5,4 +5,5 @@ Featured calculators:
 * Muscular Potential
 * Unit Conversion for Lbs-Kgs and Inches-Centimeters
 
-## GUI built with PyQt5
+## Built With
+* [PyQt5] (https://www.riverbankcomputing.com/software/pyqt/) - GUI
