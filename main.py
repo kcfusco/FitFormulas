@@ -219,7 +219,7 @@ class Ui_MainWindow(object):
         self.label_summary_tdee.setPalette(palette)
         font = QtGui.QFont()
         font.setFamily("Calibri")
-        font.setPointSize(-1)
+        font.setPointSize(1)
         font.setBold(True)
         font.setItalic(False)
         font.setWeight(75)
