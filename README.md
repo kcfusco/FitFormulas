@@ -9,4 +9,5 @@ Featured calculators:
 * [PyQt5] (https://www.riverbankcomputing.com/software/pyqt/) - GUI
 
 
-![](https://github.com/kcfusco/FitFormulas/blob/master/Screen1.PNG)
+
+<img src="https://github.com/kcfusco/FitFormulas/blob/master/Screen1.PNG" width="48">
