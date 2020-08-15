@@ -5,7 +5,7 @@ Featured calculators:
 * Muscular Potential
 * Unit Conversion for Lbs-Kgs and Inches-Centimeters
 
-<img src="https://github.com/kcfusco/FitFormulas/blob/master/Screen1.PNG" width="100">
+<img src="https://github.com/kcfusco/FitFormulas/blob/master/Screen1.PNG" width="300">
 
 ## Built With
 * [PyQt5] (https://www.riverbankcomputing.com/software/pyqt/) - GUI
