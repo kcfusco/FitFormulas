@@ -10,7 +10,7 @@ Featured calculators:
 
 ## Installing and Running
 Python 3 and PyQt5 required. 
-Clone or download as ZIP then launch FitFormulas.pyw
+  Clone or download as ZIP then launch FitFormulas.pyw
 
 ## Built With
 * [PyQt5] (https://www.riverbankcomputing.com/software/pyqt/) - GUI
