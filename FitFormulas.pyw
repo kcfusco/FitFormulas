@@ -664,7 +664,7 @@ class Ui_MainWindow(object):
                                              "    margin-left: 30px;\n"
                                              "    font: bold 18px \"Calibri\";\n"
                                              "}")
-        
+
         self.pushButton_length.setObjectName("pushButton_length")
         self.gridLayout_un.addWidget(self.pushButton_length, 0, 4, 1, 1)
         """
