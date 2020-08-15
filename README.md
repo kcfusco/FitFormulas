@@ -4,3 +4,5 @@ Featured calculators:
 * Bodyfat Percentage
 * Muscular Potential
 * Unit Conversion for Lbs-Kgs and Inches-Centimeters
+
+## GUI built with PyQt5
